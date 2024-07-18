@@ -1,0 +1,18 @@
+#                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h2tg000640l:245323-243363 -            340 134449at71240        -            255  6.5e-119  395.4   8.9   1   2     0.038   1.7e+02    0.8   0.0     1    15     1    15     1    51 0.80 -
+h2tg000640l:245323-243363 -            340 134449at71240        -            255  6.5e-119  395.4   8.9   2   2  8.8e-122    4e-118  392.8   8.6    18   255   101   340    96   340 0.96 -
+h2tg000616l:103369-14343  -            852 134449at71240        -            255     0.068   12.0   0.1   1   1   2.5e-05      0.12   11.2   0.1    17    81   160   224   146   261 0.89 -
+h2tg000453l:213896-217952 -            378 134449at71240        -            255       1.4    7.7  11.5   1   2    0.0054        24    3.6  12.8    19    78   110   172    91   176 0.78 -
+h2tg000453l:213896-217952 -            378 134449at71240        -            255       1.4    7.7  11.5   2   2     0.058   2.7e+02    0.2   0.0   173   209   231   267   228   288 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/134449at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap1-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap1-busco/run_eudicots_odb10/hmmer_output/initial_run_results/134449at71240.out --cpu 1 /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/134449at71240.hmm /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap1-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium
+# Date:            Tue Jul 16 10:01:08 2024
+# [ok]

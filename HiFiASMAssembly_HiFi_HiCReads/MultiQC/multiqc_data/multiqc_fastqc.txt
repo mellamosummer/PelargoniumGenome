@@ -1,0 +1,5 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+HiCLib1_1	HiCLib1_1.fastq	Conventional base calls	Sanger / Illumina 1.9	48678649.0	0.0	150.0	39.0	71.28354275485525	150.0	150	pass	pass	warn	pass	fail	warn	pass	pass	pass	warn	pass
+HiCLib1_2	HiCLib1_2.fastq	Conventional base calls	Sanger / Illumina 1.9	48678649.0	0.0	150.0	39.0	76.70648010846264	150.0	150	pass	pass	warn	pass	fail	warn	pass	pass	pass	warn	pass
+HiCLib2_1	HiCLib2_1.fastq	Conventional base calls	Sanger / Illumina 1.9	37349145.0	0.0	150.0	39.0	72.52536333686592	150.0	150	pass	pass	warn	pass	fail	pass	pass	pass	pass	pass	pass
+HiCLib2_2	HiCLib2_2.fastq	Conventional base calls	Sanger / Illumina 1.9	37349145.0	0.0	150.0	39.0	81.17935759117654	150.0	150	pass	pass	warn	pass	fail	warn	pass	pass	pass	warn	pass

@@ -1,0 +1,32 @@
+#                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name               accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#       ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h2tg000392l:173570-164267   -            670 25012at71240         -            580         0 1095.2   3.0   1   1         0         0 1094.8   3.0     6   578    53   665    51   667 0.96 -
+h2tg000430l:28196-19090     -            671 25012at71240         -            580    4e-132  441.3   4.1   1   1  4.7e-135  5.3e-132  440.9   4.1     9   570    83   662    78   670 0.90 -
+h2tg000653l:188786-185712   -           1025 25012at71240         -            580   2.9e-28   98.4   0.2   1   2   7.3e-30   8.3e-27   93.6   0.1     7   134     4   139     1   154 0.89 -
+h2tg000653l:188786-185712   -           1025 25012at71240         -            580   2.9e-28   98.4   0.2   2   2     0.027        30    2.6   0.0   260   383   492   611   455   623 0.72 -
+h2tg000873l:49982-48606     -            459 25012at71240         -            580   5.1e-28   97.6   0.7   1   2   7.2e-27   8.1e-24   83.7   0.0    13   135     1   131     1   212 0.90 -
+h2tg000873l:49982-48606     -            459 25012at71240         -            580   5.1e-28   97.6   0.7   2   2   3.7e-05     0.042   12.0   0.2   204   305   295   404   287   459 0.60 -
+h2tg000110l:184636-186516   -            215 25012at71240         -            580   3.7e-24   84.8   0.0   1   1   1.5e-25   1.7e-22   79.4   0.0     9   154     1   148     1   215 0.80 -
+h2tg000680l:19026-19847     -            274 25012at71240         -            580   2.8e-23   81.9   0.2   1   1     3e-26   3.4e-23   81.6   0.2    14   269     1   273     1   274 0.82 -
+h2tg000561l:11212-10223     -            330 25012at71240         -            580   6.9e-23   80.6   0.3   1   1   9.7e-26   1.1e-22   79.9   0.3    14   270    33   306    26   317 0.80 -
+h2tg000654l:1140-5975       -            988 25012at71240         -            580     1e-17   63.5   0.2   1   2     3e-19   3.4e-16   58.5   0.2     8   133   135   274   129   282 0.81 -
+h2tg000654l:1140-5975       -            988 25012at71240         -            580     1e-17   63.5   0.2   2   2     0.032        37    2.3   0.0   383   459   842   918   820   929 0.87 -
+h2tg000624l:173827-171485   -            781 25012at71240         -            580   2.2e-16   59.2   1.0   1   3   1.5e-16   1.7e-13   49.6   0.2    24   134     1   133     1   151 0.75 -
+h2tg000624l:173827-171485   -            781 25012at71240         -            580   2.2e-16   59.2   1.0   2   3     0.035        40    2.1   0.1   220   383   363   536   337   578 0.54 -
+h2tg000624l:173827-171485   -            781 25012at71240         -            580   2.2e-16   59.2   1.0   3   3     0.017        19    3.2   0.0   383   458   695   770   679   777 0.90 -
+h2tg000860l:17210-19642     -            811 25012at71240         -            580   3.8e-15   55.1   0.4   1   3   1.7e-16   1.9e-13   49.5   0.1    24   134     1   133     1   155 0.75 -
+h2tg000860l:17210-19642     -            811 25012at71240         -            580   3.8e-15   55.1   0.4   2   3      0.43   4.9e+02   -1.4   0.0   221   280   364   434   339   519 0.56 -
+h2tg000860l:17210-19642     -            811 25012at71240         -            580   3.8e-15   55.1   0.4   3   3     0.062        71    1.3   0.0   383   458   695   770   680   777 0.90 -
+h2tg000080l:1455456-1456076 -            207 25012at71240         -            580   2.8e-10   39.0   0.6   1   1   8.4e-13   9.5e-10   37.2   0.6    15   141     1   118     1   133 0.83 -
+h2tg000303l:371912-363771   -            654 25012at71240         -            580    0.0015   16.8   0.0   1   1   2.7e-06     0.003   15.8   0.0    16   132   137   259   128   266 0.67 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/25012at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap2-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap2-busco/run_eudicots_odb10/hmmer_output/initial_run_results/25012at71240.out --cpu 1 /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/25012at71240.hmm /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap2-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium
+# Date:            Tue Jul 16 10:31:11 2024
+# [ok]

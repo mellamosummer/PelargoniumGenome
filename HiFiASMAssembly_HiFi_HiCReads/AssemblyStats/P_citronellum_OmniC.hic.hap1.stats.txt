@@ -1,0 +1,52 @@
+
+---------------- Information for assembly 'Results/HiFiASM_OmniC/P_citronellum_OmniC.hic.hap1.p_ctg.fa' ----------------
+
+
+                                         Number of scaffolds       1869
+                                     Total size of scaffolds  545058034
+                                            Longest scaffold    6427586
+                                           Shortest scaffold       4804
+                                 Number of scaffolds > 1K nt       1869 100.0%
+                                Number of scaffolds > 10K nt       1866  99.8%
+                               Number of scaffolds > 100K nt       1007  53.9%
+                                 Number of scaffolds > 1M nt        111   5.9%
+                                Number of scaffolds > 10M nt          0   0.0%
+                                          Mean scaffold size     291631
+                                        Median scaffold size     117313
+                                         N50 scaffold length     738073
+                                          L50 scaffold count        175
+                                                 scaffold %A      30.18
+                                                 scaffold %C      19.81
+                                                 scaffold %G      19.68
+                                                 scaffold %T      30.32
+                                                 scaffold %N       0.00
+                                         scaffold %non-ACGTN       0.00
+                             Number of scaffold non-ACGTN nt          0
+
+                Percentage of assembly in scaffolded contigs       0.0%
+              Percentage of assembly in unscaffolded contigs     100.0%
+                      Average number of contigs per scaffold        1.0
+Average length of break (>25 Ns) between contigs in scaffold          0
+
+                                           Number of contigs       1869
+                              Number of contigs in scaffolds          0
+                          Number of contigs not in scaffolds       1869
+                                       Total size of contigs  545058034
+                                              Longest contig    6427586
+                                             Shortest contig       4804
+                                   Number of contigs > 1K nt       1869 100.0%
+                                  Number of contigs > 10K nt       1866  99.8%
+                                 Number of contigs > 100K nt       1007  53.9%
+                                   Number of contigs > 1M nt        111   5.9%
+                                  Number of contigs > 10M nt          0   0.0%
+                                            Mean contig size     291631
+                                          Median contig size     117313
+                                           N50 contig length     738073
+                                            L50 contig count        175
+                                                   contig %A      30.18
+                                                   contig %C      19.81
+                                                   contig %G      19.68
+                                                   contig %T      30.32
+                                                   contig %N       0.00
+                                           contig %non-ACGTN       0.00
+                               Number of contig non-ACGTN nt          0

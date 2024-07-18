@@ -1,0 +1,92 @@
+perc_pairs_on_same_strand_hq	14.48%
+perc_informative_read_pairs	13.40%
+perc_pairs_intra_hq_gt10kbp	13.59%
+perc_intercontig_pairs_hq_gt10kbp	28.42%
+perc_noninformative_read_pairs	67.80%
+perc_duplicate_reads	0.00%
+perc_zero_dist_pairs	0.34%
+perc_unmapped_reads	0.00%
+perc_mapq0_reads	60.78%
+perc_pairs_greater_10k	9.79%
+perc_pairs_greater_10k_on_contigs_greater_10k	25.77%
+perc_pairs_on_same_strand	22.92%
+perc_intercontig_pairs	62.03%
+perc_intercontig_pairs_hq	28.42%
+perc_split_reads	19.56%
+perc_hq_rp	22.18%
+perc_different_ref_stub_pairs	62.03%
+proximo_usable_rp_per_ctg_gt_5k	129.24
+proximo_usable_rp_hq_per_ctg_gt_5k	80.50
+proximo_usable_rp_hq_per_ctg_gt_5k_per_million	40.25
+split_reads	391,275
+unmapped_reads	0
+mapq0_reads	1,215,655
+duplicate_reads	0
+intercontig_pairs_hq	126,065
+informative_pairs	268,056
+pairs_greater_10k	195,719
+proximo_usable_rp	202,397
+pairs_on_same_strand_hq	45,962
+zero_dist_pairs	6,831
+total_read_pairs_hq	443,506
+pairs_intracontig_hq	317,441
+total_read_pairs	2,000,001
+proximo_usable_rp_hq	126,065
+total_pairs_on_same_contig	759,362
+pairs_intracontig_hq_gt10kbp	43,139
+pairs_on_same_strand	174,058
+different_ref_stub_pairs	1,240,639
+pairs_greater_10k_on_contigs_greater_10k	195,719
+pairs_on_contigs_greater_10k	759,362
+intercontig_pairs	1,240,639
+script_dir	/usr/src/hic_qc
+outfile_prefix	/scratch/srb67793/Pelargonium/Results/HiFiASM_OmniC/Read_mate_dist
+pg_logo	/usr/src/hic_qc/collateral/PGBlueLogoHorSmall.png
+bamfile	/scratch/srb67793/Pelargonium/Results/HiFiASM_OmniC/P_citronellum.asm.hic.hap1.p_ctg_vs_HiC.sorted.bam
+bamname	P_citronellum.asm.hic.hap1.p_ctg_vs_HiC.sorted.bam
+long_hist	/scratch/srb67793/Pelargonium/Results/HiFiASM_OmniC/Read_mate_dist_long.png
+short_hist	/scratch/srb67793/Pelargonium/Results/HiFiASM_OmniC/Read_mate_dist_short.png
+log_log_hist	/scratch/srb67793/Pelargonium/Results/HiFiASM_OmniC/Read_mate_dist_log_log.png
+log_log_norm_hist	/scratch/srb67793/Pelargonium/Results/HiFiASM_OmniC/Read_mate_dist_log_log_norm.png
+contigs_greater_0k	1,566
+contigs_greater_1k	1,566
+contigs_greater_2k	1,566
+contigs_greater_5k	1,566
+contigs_greater_10k	1,566
+contigs_greater_20k	1,551
+contigs_greater_50k	1,278
+N50	760,978
+contigs	1,566
+total_length	514,186,233
+total_reads	4,000,002
+judgment	<span class="pass">SUFFICIENT</span>
+qc_purpose	Genome Scaffolding
+same_strand_threshold	1.5
+informative_read_pairs_threshold	5.0
+noninformative_read_pairs_threshold	50.0
+long_contacts_threshold	3.0
+intercontig_hq_contacts_threshold	2.5
+usable_hq_gt_5k_threshold	600.0
+min_usable_reads_per_contig_per_million_threshold	100.0
+high_dupe_threshold	20.0
+many_zero_dist_threshold	20.0
+many_zero_mapq_threshold	20.0
+many_unmapped_threshold	10.0
+alignment_command_line	bwa mem -t 24 -5SP 
+samblaster	samblaster command not found
+lib_enzyme	unspecified
+ref_assembly	P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa
+fwd_hic_reads	<span class="mixed-results">forward Hi-C reads not found</span>
+rev_hic_reads	<span class="mixed-results">reverse Hi-C reads not found</span>
+same_strand_hq_html	<span class="pass">14.48%</span>
+informative_read_pairs_html	<span class="pass">13.40%</span>
+noninformative_read_pairs_html	<span class="fail">67.80%</span>
+long_contacts_html	<span class="pass">13.59%</span>
+intercontig_hq_contacts_html	<span class="pass">28.42%</span>
+usable_hq_gt_5k_html	<span>80.50</span>
+usable_hq_gt_5k_per_million_html	<span class="fail">40.25</span>
+high_dupe_html	<span class="pass">0.00%</span>
+many_zero_dist_pairs_html	<span class="pass">0.34%</span>
+many_unmapped_reads_html	<span class="pass">0.00%</span>
+many_zero_mapq_reads_html	<span class="fail">60.78%</span>
+version	0+untagged.261.g6881c33

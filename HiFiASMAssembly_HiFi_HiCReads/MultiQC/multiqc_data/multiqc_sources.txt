@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	HiCLib1_1	/scratch/srb67793/Pelargonium/fastqc/HiCLib1_1_fastqc.zip
+FastQC	all_sections	HiCLib2_1	/scratch/srb67793/Pelargonium/fastqc/HiCLib2_1_fastqc.zip
+FastQC	all_sections	HiCLib1_2	/scratch/srb67793/Pelargonium/fastqc/HiCLib1_2_fastqc.zip
+FastQC	all_sections	HiCLib2_2	/scratch/srb67793/Pelargonium/fastqc/HiCLib2_2_fastqc.zip

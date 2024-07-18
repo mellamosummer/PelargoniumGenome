@@ -1,0 +1,25 @@
+#                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+h2tg000853l:225757-222777 -            454 86338at71240         -            381  3.6e-171  568.9   0.5   1   2  6.9e-164  1.3e-160  534.1   0.0     2   351     3   377     2   386 0.91 -
+h2tg000853l:225757-222777 -            454 86338at71240         -            381  3.6e-171  568.9   0.5   2   2   1.8e-11   3.5e-08   32.4   0.1   346   381   410   445   400   445 0.89 -
+h2tg000229l:132860-138426 -            498 86338at71240         -            381   2.4e-17   62.6   0.0   1   1     2e-20   3.9e-17   61.9   0.0    30   261    91   330    70   352 0.76 -
+h2tg000096l:50517-54450   -            432 86338at71240         -            381   5.9e-13   48.1   1.3   1   3   6.5e-11   1.3e-07   30.6   0.0    30   186    28   192     8   197 0.80 -
+h2tg000096l:50517-54450   -            432 86338at71240         -            381   5.9e-13   48.1   1.3   2   3   5.8e-06     0.011   14.3   0.1   224   263   208   245   206   262 0.85 -
+h2tg000096l:50517-54450   -            432 86338at71240         -            381   5.9e-13   48.1   1.3   3   3       0.1     2e+02    0.3   0.0   264   300   274   310   262   365 0.63 -
+h2tg000396l:138739-132216 -            422 86338at71240         -            381   1.5e-12   46.8   0.1   1   1   5.4e-14   1.1e-10   40.7   0.1    22   258    35   253    20   275 0.79 -
+h2tg000915l:275941-284559 -            660 86338at71240         -            381   2.2e-11   43.0   0.1   1   2   5.5e-10   1.1e-06   27.5   0.0    76   253   299   489   287   501 0.81 -
+h2tg000915l:275941-284559 -            660 86338at71240         -            381   2.2e-11   43.0   0.1   2   2   1.5e-05     0.029   13.0   0.1   282   346   549   618   544   645 0.67 -
+h2tg000390l:122287-121967 -            107 86338at71240         -            381   0.00015   20.5   0.0   1   1   8.3e-08   0.00016   20.4   0.0    32   103    27   101     1   105 0.81 -
+h2tg000459l:188107-175890 -            535 86338at71240         -            381   0.00094   17.8   0.1   1   2      0.28   5.4e+02   -1.1   0.0    87   104   102   119    88   144 0.81 -
+h2tg000459l:188107-175890 -            535 86338at71240         -            381   0.00094   17.8   0.1   2   2   1.9e-06    0.0036   15.9   0.1   221   259   297   335   280   351 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/86338at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap1-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap1-busco/run_eudicots_odb10/hmmer_output/initial_run_results/86338at71240.out --cpu 1 /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/86338at71240.hmm /scratch/srb67793/Pelargonium/P_citronellum_omnic-hap1-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum_OmniC.hic.bp.hap1.p_ctg.fa.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium
+# Date:            Tue Jul 16 10:02:12 2024
+# [ok]
