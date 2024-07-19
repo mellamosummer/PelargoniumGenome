@@ -1,0 +1,17 @@
+#                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pcitr_chr5:4286401-4284305     -            372 111407at71240        -            223  1.4e-119  396.8  13.7   1   2     5e-19   1.6e-15   56.5   2.1     1    60   113   172   113   183 0.88 -
+Pcitr_chr5:4286401-4284305     -            372 111407at71240        -            223  1.4e-119  396.8  13.7   2   2  2.1e-107  6.7e-104  345.6   4.6    47   223   190   366   177   366 0.97 -
+Pcitr_Contig13:881306-879828   -            237 111407at71240        -            223   1.5e-36  125.3   1.9   1   1   5.8e-40   1.9e-36  125.0   1.9    51   222    43   220    25   221 0.89 -
+Pcitr_Contig27:1226705-1225094 -            281 111407at71240        -            223   4.1e-36  123.9   1.5   1   1   1.7e-39   5.5e-36  123.5   1.5    51   222    92   269    74   270 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/111407at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/metaeuk_output/initial_results/Pcitr_Genome-final.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/hmmer_output/initial_run_results/111407at71240.out --cpu 1 /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/111407at71240.hmm /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/metaeuk_output/initial_results/Pcitr_Genome-final.fasta.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium
+# Date:            Tue Jul  9 10:56:26 2024
+# [ok]

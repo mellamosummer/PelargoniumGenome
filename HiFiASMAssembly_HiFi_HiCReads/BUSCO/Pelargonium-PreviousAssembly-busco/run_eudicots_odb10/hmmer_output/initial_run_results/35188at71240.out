@@ -1,0 +1,26 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pcitr_chr2:4193040-4188736   -            680 35188at71240         -            461  7.1e-234  776.0  18.6   1   2  1.1e-141  1.1e-138  462.2   2.7    12   257    56   322    44   327 0.91 -
+Pcitr_chr2:4193040-4188736   -            680 35188at71240         -            461  7.1e-234  776.0  18.6   2   2   6.1e-95   5.9e-92  308.1   8.1   254   461   424   680   412   680 0.84 -
+Pcitr_chr7:5266471-5266809   -            113 35188at71240         -            461   5.9e-12   44.4   2.1   1   1   6.8e-15   6.6e-12   44.2   2.1   102   162    45   107    25   111 0.88 -
+Pcitr_chr3:7574272-7570273   -            396 35188at71240         -            461   2.8e-05   22.4   3.4   1   2      0.73   7.1e+02   -2.1   0.2   281   333   221   273   212   290 0.76 -
+Pcitr_chr3:7574272-7570273   -            396 35188at71240         -            461   2.8e-05   22.4   3.4   2   2   2.9e-08   2.8e-05   22.4   3.4   105   163   340   390   314   395 0.83 -
+Pcitr_chr8:32325777-32322444 -            254 35188at71240         -            461   0.00022   19.4   3.6   1   2   2.2e-07   0.00022   19.4   3.6   107   152     2    50     1    72 0.85 -
+Pcitr_chr8:32325777-32322444 -            254 35188at71240         -            461   0.00022   19.4   3.6   2   2      0.83   8.1e+02   -2.2   0.0   185   391   156   183   130   208 0.60 -
+Pcitr_chr8:19233372-19228405 -            393 35188at71240         -            461    0.0055   14.8   1.8   1   1   8.2e-06     0.008   14.3   1.8   103   152   335   377   332   389 0.78 -
+Pcitr_chr2:6720475-6720218   -             86 35188at71240         -            461     0.011   13.8   1.7   1   1   1.2e-05     0.011   13.7   1.7   104   133    43    72    29    85 0.87 -
+Pcitr_chr2:5273696-5273962   -             89 35188at71240         -            461      0.04   11.9   2.8   1   1   4.9e-05     0.048   11.7   2.8    99   139    34    77    31    87 0.80 -
+Pcitr_chr8:20286583-20286762 -             60 35188at71240         -            461      0.51    8.3   6.5   1   1   0.00048      0.47    8.4   6.5   103   151    14    57     1    60 0.65 -
+Pcitr_chr6:2954792-2955274   -             93 35188at71240         -            461      0.54    8.2   6.7   1   1   0.00067      0.66    7.9   6.7   107   152     1    42     1    73 0.72 -
+Pcitr_chr4:2666369-2666172   -             66 35188at71240         -            461      0.95    7.4   4.8   1   1     0.001         1    7.3   4.8   105   152    21    61    12    66 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/35188at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/metaeuk_output/initial_results/Pcitr_Genome-final.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/hmmer_output/initial_run_results/35188at71240.out --cpu 1 /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/35188at71240.hmm /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/metaeuk_output/initial_results/Pcitr_Genome-final.fasta.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium
+# Date:            Tue Jul  9 10:56:45 2024
+# [ok]

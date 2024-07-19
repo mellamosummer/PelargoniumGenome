@@ -1,0 +1,51 @@
+---------------- Information for assembly 'Pcitr_Genome-final.fasta' ----------------
+
+
+                                         Number of scaffolds        979
+                                     Total size of scaffolds  485700196
+                                            Longest scaffold   54826072
+                                           Shortest scaffold        719
+                                 Number of scaffolds > 1K nt        955  97.5%
+                                Number of scaffolds > 10K nt        326  33.3%
+                               Number of scaffolds > 100K nt         46   4.7%
+                                 Number of scaffolds > 1M nt         18   1.8%
+                                Number of scaffolds > 10M nt         11   1.1%
+                                          Mean scaffold size     496119
+                                        Median scaffold size       4937
+                                         N50 scaffold length   40969278
+                                          L50 scaffold count          6
+                                                 scaffold %A      29.00
+                                                 scaffold %C      17.24
+                                                 scaffold %G      17.25
+                                                 scaffold %T      29.03
+                                                 scaffold %N       7.49
+                                         scaffold %non-ACGTN       0.00
+                             Number of scaffold non-ACGTN nt          0
+
+                Percentage of assembly in scaffolded contigs      99.5%
+              Percentage of assembly in unscaffolded contigs       0.5%
+                      Average number of contigs per scaffold       28.9
+Average length of break (>25 Ns) between contigs in scaffold       1326
+
+                                           Number of contigs      28335
+                              Number of contigs in scaffolds      27743
+                          Number of contigs not in scaffolds        592
+                                       Total size of contigs  449404305
+                                              Longest contig     381186
+                                             Shortest contig          0
+                                   Number of contigs > 1K nt      27251  96.2%
+                                  Number of contigs > 10K nt      12178  43.0%
+                                 Number of contigs > 100K nt        387   1.4%
+                                   Number of contigs > 1M nt          0   0.0%
+                                  Number of contigs > 10M nt          0   0.0%
+                                            Mean contig size      15860
+                                          Median contig size       7815
+                                           N50 contig length      33809
+                                            L50 contig count       3591
+                                                   contig %A      31.35
+                                                   contig %C      18.63
+                                                   contig %G      18.64
+                                                   contig %T      31.37
+                                                   contig %N       0.01
+                                           contig %non-ACGTN       0.00
+                               Number of contig non-ACGTN nt          0

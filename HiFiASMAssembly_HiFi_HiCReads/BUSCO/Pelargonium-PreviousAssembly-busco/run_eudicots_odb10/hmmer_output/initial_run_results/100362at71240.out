@@ -1,0 +1,21 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pcitr_chr5:15315246-15318026 -            257 100362at71240        -            260  6.9e-149  493.5   0.1   1   1  4.7e-152  7.7e-149  493.3   0.1    12   259     2   257     1   257 0.97 -
+Pcitr_chr8:23003825-23005479 -            198 100362at71240        -            260  4.2e-111  369.6   0.1   1   1  2.9e-114  4.7e-111  369.5   0.1    68   259     1   198     1   198 0.98 -
+Pcitr_chr2:2731027-2809025   -           1017 100362at71240        -            260   2.5e-33  114.7   0.0   1   2   7.1e-34   1.2e-30  105.9   0.0     5   182    10   199     6   206 0.83 -
+Pcitr_chr2:2731027-2809025   -           1017 100362at71240        -            260   2.5e-33  114.7   0.0   2   2    0.0016       2.7    6.4   0.0   216   258   207   258   203   260 0.73 -
+Pcitr_chr11:3252134-3252962  -            135 100362at71240        -            260   1.2e-16   60.0   0.0   1   1   8.3e-20   1.3e-16   59.8   0.0    20   143     3   134     1   135 0.82 -
+Pcitr_chr8:15311845-15311517 -             80 100362at71240        -            260   7.2e-11   41.1   0.0   1   1   4.4e-14   7.2e-11   41.1   0.0    41    83     3    46     1    67 0.91 -
+Pcitr_chr1:47509534-47511141 -            359 100362at71240        -            260   0.00029   19.4   0.0   1   2   1.4e-05     0.023   13.2   0.0   104   166   158   221    52   232 0.70 -
+Pcitr_chr1:47509534-47511141 -            359 100362at71240        -            260   0.00029   19.4   0.0   2   2      0.01        17    3.8   0.0   198   257   293   354   277   356 0.73 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/100362at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/metaeuk_output/initial_results/Pcitr_Genome-final.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/hmmer_output/initial_run_results/100362at71240.out --cpu 1 /scratch/srb67793/Pelargonium/busco_downloads/lineages/eudicots_odb10/hmms/100362at71240.hmm /scratch/srb67793/Pelargonium/Pelargonium-PreviousAssembly-busco/run_eudicots_odb10/metaeuk_output/initial_results/Pcitr_Genome-final.fasta.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium
+# Date:            Tue Jul  9 10:56:26 2024
+# [ok]

@@ -1,0 +1,30 @@
+# BUSCO version is: 5.5.0 
+# The lineage dataset is: eudicots_odb10 (Creation date: 2024-01-08, number of genomes: 31, number of BUSCOs: 2326)
+# Summarized benchmarking in BUSCO notation for file /scratch/srb67793/Pelargonium/Pcitr_Genome-final.fasta
+# BUSCO was run in mode: euk_genome_met
+# Gene predictor used: metaeuk
+
+	***** Results: *****
+
+	C:93.8%[S:81.3%,D:12.5%],F:0.9%,M:5.3%,n:2326	   
+	2183	Complete BUSCOs (C)			   
+	1892	Complete and single-copy BUSCOs (S)	   
+	291	Complete and duplicated BUSCOs (D)	   
+	21	Fragmented BUSCOs (F)			   
+	122	Missing BUSCOs (M)			   
+	2326	Total BUSCO groups searched		   
+
+Assembly Statistics:
+	979	Number of scaffolds
+	29981	Number of contigs
+	485700196	Total length
+	7.486%	Percent gaps
+	40 MB	Scaffold N50
+	31 KB	Contigs N50
+
+
+Dependencies and versions:
+	hmmsearch: 3.3
+	bbtools: 39.01
+	metaeuk: GITDIR-NOTFOUND
+	busco: 5.5.0

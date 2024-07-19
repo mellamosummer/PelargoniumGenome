@@ -1,0 +1,12 @@
+2024-07-09 11:44:22 INFO:__main__	****************** Start plot generation at 07/09/2024 11:44:22 ******************
+2024-07-09 11:44:22 INFO:__main__	Load data ...
+2024-07-09 11:44:22 INFO:__main__	Loaded ./short_summary.specific.eudicots_odb10.Pelargonium-PreviousAssembly-busco.txt successfully
+2024-07-09 11:44:22 INFO:__main__	Generate the R code ...
+2024-07-09 11:44:22 INFO:__main__	Run the R code ...
+2024-07-09 11:44:26 INFO:__main__	
+[1] "Plotting the figure ..."
+[1] "Done"
+
+2024-07-09 11:44:26 INFO:__main__	Plot generation done. Total running time: 4.3398964405059814 seconds
+2024-07-09 11:44:26 INFO:__main__	Results written in ./
+
