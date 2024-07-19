@@ -1,0 +1,8 @@
+scaffold_8	MetaEuk	gene	8506299	8509330	110	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298
+scaffold_8	MetaEuk	mRNA	8506299	8509330	110	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_mRNA;Parent=165776at71240|scaffold_8|+|8506298
+scaffold_8	MetaEuk	exon	8506299	8506604	45	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_exon_0;Parent=165776at71240|scaffold_8|+|8506298_mRNA
+scaffold_8	MetaEuk	CDS	8506299	8506604	45	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_CDS_0;Parent=165776at71240|scaffold_8|+|8506298_exon_0
+scaffold_8	MetaEuk	exon	8507489	8507551	37	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_exon_1;Parent=165776at71240|scaffold_8|+|8506298_mRNA
+scaffold_8	MetaEuk	CDS	8507495	8507551	37	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_CDS_1;Parent=165776at71240|scaffold_8|+|8506298_exon_1
+scaffold_8	MetaEuk	exon	8509217	8509330	48	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_exon_2;Parent=165776at71240|scaffold_8|+|8506298_mRNA
+scaffold_8	MetaEuk	CDS	8509217	8509330	48	+	.	Target_ID=165776at71240;TCS_ID=165776at71240|scaffold_8|+|8506298_CDS_2;Parent=165776at71240|scaffold_8|+|8506298_exon_2

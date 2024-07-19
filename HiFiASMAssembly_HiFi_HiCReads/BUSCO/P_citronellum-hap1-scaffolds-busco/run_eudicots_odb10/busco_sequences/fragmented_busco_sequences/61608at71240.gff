@@ -1,0 +1,12 @@
+scaffold_7	MetaEuk	gene	17282527	17284842	238	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526
+scaffold_7	MetaEuk	mRNA	17282527	17284842	238	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_mRNA;Parent=61608at71240|scaffold_7|-|17282526
+scaffold_7	MetaEuk	exon	17284738	17284842	67	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_exon_0;Parent=61608at71240|scaffold_7|-|17282526_mRNA
+scaffold_7	MetaEuk	CDS	17284738	17284842	67	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_CDS_0;Parent=61608at71240|scaffold_7|-|17282526_exon_0
+scaffold_7	MetaEuk	exon	17284419	17284490	40	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_exon_1;Parent=61608at71240|scaffold_7|-|17282526_mRNA
+scaffold_7	MetaEuk	CDS	17284419	17284481	40	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_CDS_1;Parent=61608at71240|scaffold_7|-|17282526_exon_1
+scaffold_7	MetaEuk	exon	17283465	17283521	31	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_exon_2;Parent=61608at71240|scaffold_7|-|17282526_mRNA
+scaffold_7	MetaEuk	CDS	17283465	17283521	31	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_CDS_2;Parent=61608at71240|scaffold_7|-|17282526_exon_2
+scaffold_7	MetaEuk	exon	17282990	17283052	37	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_exon_3;Parent=61608at71240|scaffold_7|-|17282526_mRNA
+scaffold_7	MetaEuk	CDS	17282990	17283040	37	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_CDS_3;Parent=61608at71240|scaffold_7|-|17282526_exon_3
+scaffold_7	MetaEuk	exon	17282527	17282706	84	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_exon_4;Parent=61608at71240|scaffold_7|-|17282526_mRNA
+scaffold_7	MetaEuk	CDS	17282527	17282706	84	-	.	Target_ID=61608at71240;TCS_ID=61608at71240|scaffold_7|-|17282526_CDS_4;Parent=61608at71240|scaffold_7|-|17282526_exon_4

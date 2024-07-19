@@ -1,0 +1,14 @@
+scaffold_8	MetaEuk	gene	593292	596124	503	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291
+scaffold_8	MetaEuk	mRNA	593292	596124	503	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_mRNA;Parent=86338at71240|scaffold_8|+|593291
+scaffold_8	MetaEuk	exon	593292	593444	65	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_exon_0;Parent=86338at71240|scaffold_8|+|593291_mRNA
+scaffold_8	MetaEuk	CDS	593292	593444	65	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_CDS_0;Parent=86338at71240|scaffold_8|+|593291_exon_0
+scaffold_8	MetaEuk	exon	593534	593701	66	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_exon_1;Parent=86338at71240|scaffold_8|+|593291_mRNA
+scaffold_8	MetaEuk	CDS	593534	593701	66	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_CDS_1;Parent=86338at71240|scaffold_8|+|593291_exon_1
+scaffold_8	MetaEuk	exon	594621	594770	78	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_exon_2;Parent=86338at71240|scaffold_8|+|593291_mRNA
+scaffold_8	MetaEuk	CDS	594621	594770	78	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_CDS_2;Parent=86338at71240|scaffold_8|+|593291_exon_2
+scaffold_8	MetaEuk	exon	595165	595383	103	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_exon_3;Parent=86338at71240|scaffold_8|+|593291_mRNA
+scaffold_8	MetaEuk	CDS	595174	595383	103	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_CDS_3;Parent=86338at71240|scaffold_8|+|593291_exon_3
+scaffold_8	MetaEuk	exon	595583	595726	94	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_exon_4;Parent=86338at71240|scaffold_8|+|593291_mRNA
+scaffold_8	MetaEuk	CDS	595592	595726	94	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_CDS_4;Parent=86338at71240|scaffold_8|+|593291_exon_4
+scaffold_8	MetaEuk	exon	595729	596124	132	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_exon_5;Parent=86338at71240|scaffold_8|+|593291_mRNA
+scaffold_8	MetaEuk	CDS	595729	596124	132	+	.	Target_ID=86338at71240;TCS_ID=86338at71240|scaffold_8|+|593291_CDS_5;Parent=86338at71240|scaffold_8|+|593291_exon_5

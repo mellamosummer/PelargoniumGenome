@@ -1,0 +1,4 @@
+scaffold_8	MetaEuk	gene	1716329	1716691	186	-	.	Target_ID=47260at71240;TCS_ID=47260at71240|scaffold_8|-|1716328
+scaffold_8	MetaEuk	mRNA	1716329	1716691	186	-	.	Target_ID=47260at71240;TCS_ID=47260at71240|scaffold_8|-|1716328_mRNA;Parent=47260at71240|scaffold_8|-|1716328
+scaffold_8	MetaEuk	exon	1716329	1716691	186	-	.	Target_ID=47260at71240;TCS_ID=47260at71240|scaffold_8|-|1716328_exon_0;Parent=47260at71240|scaffold_8|-|1716328_mRNA
+scaffold_8	MetaEuk	CDS	1716329	1716691	186	-	.	Target_ID=47260at71240;TCS_ID=47260at71240|scaffold_8|-|1716328_CDS_0;Parent=47260at71240|scaffold_8|-|1716328_exon_0

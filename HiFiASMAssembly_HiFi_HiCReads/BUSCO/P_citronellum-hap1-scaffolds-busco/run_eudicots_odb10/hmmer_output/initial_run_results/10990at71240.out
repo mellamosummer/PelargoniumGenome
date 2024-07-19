@@ -1,0 +1,29 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold_1:45184246-45189577 -            938 10990at71240         -            775         0 1536.9  37.4   1   2   1.5e-31   1.3e-28   98.6  16.9     1   101    19   150    19   165 0.78 -
+scaffold_1:45184246-45189577 -            938 10990at71240         -            775         0 1536.9  37.4   2   2         0         0 1440.2  13.3    90   760   172   882   158   916 0.93 -
+scaffold_7:7389222-7383388   -            730 10990at71240         -            775  4.6e-113  377.9   0.0   1   1  7.2e-116  6.5e-113  377.4   0.0   128   723    31   658    26   666 0.84 -
+scaffold_1:22909039-22915037 -            721 10990at71240         -            775  7.2e-111  370.6   0.0   1   1  1.1e-113    1e-110  370.1   0.0   128   722    31   648    26   660 0.85 -
+scaffold_2:24129244-24112736 -           1576 10990at71240         -            775  9.6e-110  366.9   0.0   1   1  1.8e-112  1.6e-109  366.1   0.0   147   701   134   713    96   782 0.86 -
+scaffold_12:4019831-4032872  -           1125 10990at71240         -            775  1.2e-105  353.4   2.9   1   2   1.9e-91   1.7e-88  296.6   0.1   149   621   447   923   433   932 0.91 -
+scaffold_12:4019831-4032872  -           1125 10990at71240         -            775  1.2e-105  353.4   2.9   2   2   6.2e-19   5.6e-16   56.8   0.6   619   708   962  1057   950  1090 0.85 -
+scaffold_12:4027755-4038165  -            999 10990at71240         -            775  1.7e-105  352.9   1.9   1   2   6.8e-91   6.2e-88  294.8   0.0   150   621    21   496    13   503 0.91 -
+scaffold_12:4027755-4038165  -            999 10990at71240         -            775  1.7e-105  352.9   1.9   2   2   5.7e-19   5.2e-16   57.0   0.5   619   707   537   631   526   655 0.86 -
+scaffold_1:29109614-29103349 -            836 10990at71240         -            775  1.7e-104  349.6   1.6   1   2   8.4e-21   7.6e-18   63.0   0.1   132   352    18   245     8   255 0.90 -
+scaffold_1:29109614-29103349 -            836 10990at71240         -            775  1.7e-104  349.6   1.6   2   2   3.6e-88   3.3e-85  285.8   0.1   389   714   326   658   308   668 0.91 -
+scaffold_7:260325-283772     -           2461 10990at71240         -            775   2.3e-97  326.0   0.0   1   1  4.1e-100   3.7e-97  325.3   0.0   215   621   126   535   116   579 0.94 -
+scaffold_4:2941991-2935210   -            747 10990at71240         -            775   2.4e-90  302.8   1.1   1   2   9.6e-77   8.7e-74  248.0   0.4   185   624    42   510    17   534 0.82 -
+scaffold_4:2941991-2935210   -            747 10990at71240         -            775   2.4e-90  302.8   1.1   2   2   4.6e-17   4.2e-14   50.7   0.0   627   711   555   642   539   681 0.88 -
+scaffold_10:3832771-3851721  -            672 10990at71240         -            775   1.4e-75  253.9   0.1   1   1   2.1e-78   1.9e-75  253.5   0.1   229   728   141   647   133   670 0.82 -
+scaffold_1:21145753-21142247 -            420 10990at71240         -            775   2.5e-58  196.9   0.0   1   1   3.7e-61   3.3e-58  196.5   0.0   215   512   119   420   109   420 0.93 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/scripts/busco_downloads/lineages/eudicots_odb10/hmms/10990at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum-hap1-scaffolds-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum-hap1_scaffolds_final.fa.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum-hap1-scaffolds-busco/run_eudicots_odb10/hmmer_output/initial_run_results/10990at71240.out --cpu 1 /scratch/srb67793/Pelargonium/scripts/busco_downloads/lineages/eudicots_odb10/hmms/10990at71240.hmm /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum-hap1-scaffolds-busco/run_eudicots_odb10/metaeuk_output/initial_results/P_citronellum-hap1_scaffolds_final.fa.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium/scripts
+# Date:            Fri Jul 19 10:32:08 2024
+# [ok]
