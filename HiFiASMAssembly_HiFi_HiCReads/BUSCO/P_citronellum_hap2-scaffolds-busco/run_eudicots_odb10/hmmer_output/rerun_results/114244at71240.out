@@ -1,0 +1,14 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold_2:25586704-25582509 -           1076 114244at71240        -            261       0.2    7.4   5.4   1   1    0.0002      0.33    6.7   5.4   185   247   145   205   136   216 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/scripts/busco_downloads/lineages/eudicots_odb10/hmms/114244at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum_hap2-scaffolds-busco/run_eudicots_odb10/metaeuk_output/rerun_results/P_citronellum-hap2_scaffolds_final.fa.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum_hap2-scaffolds-busco/run_eudicots_odb10/hmmer_output/rerun_results/114244at71240.out --cpu 1 /scratch/srb67793/Pelargonium/scripts/busco_downloads/lineages/eudicots_odb10/hmms/114244at71240.hmm /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum_hap2-scaffolds-busco/run_eudicots_odb10/metaeuk_output/rerun_results/P_citronellum-hap2_scaffolds_final.fa.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium/scripts
+# Date:            Fri Jul 19 11:19:28 2024
+# [ok]

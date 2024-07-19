@@ -1,0 +1,22 @@
+#                                                                                    --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#        ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+scaffold_10:1833670-1830808  -            264 114314at71240        -            236  5.2e-137  451.8  11.9   1   1  3.3e-139  6.1e-137  451.6  11.9     1   236     3   257     3   257 0.95 -
+scaffold_2:28841113-28839389 -            259 114314at71240        -            236   5.7e-57  189.8  14.0   1   1   3.5e-59   6.6e-57  189.6  14.0     6   235     3   253     1   254 0.88 -
+scaffold_4:12190476-12188728 -            255 114314at71240        -            236   5.8e-56  186.5   8.2   1   1   3.5e-58   6.6e-56  186.3   8.2     2   236     2   255     1   255 0.87 -
+scaffold_2:19732074-19730259 -            246 114314at71240        -            236   2.4e-55  184.5  11.6   1   1   1.4e-57   2.7e-55  184.4  11.6    11   235     1   246     1   246 0.86 -
+scaffold_8:24704975-24708411 -            264 114314at71240        -            236   3.3e-53  177.5   6.7   1   1   2.2e-55     4e-53  177.2   6.7     4   235     2   258     1   259 0.85 -
+scaffold_4:16760577-16759205 -            246 114314at71240        -            236   7.5e-51  169.8   5.3   1   1   4.8e-53   8.9e-51  169.5   5.3     5   235     2   240     1   241 0.87 -
+scaffold_8:18928333-18926209 -            244 114314at71240        -            236   7.4e-49  163.3   3.2   1   1   4.5e-51   8.3e-49  163.1   3.2    16   236     1   240     1   240 0.86 -
+scaffold_5:11330119-11329262 -            244 114314at71240        -            236   2.5e-48  161.5   6.6   1   1   1.6e-50     3e-48  161.3   6.6     5   235     2   240     1   241 0.87 -
+scaffold_3:23908653-23910924 -            251 114314at71240        -            236   3.9e-44  147.8   7.3   1   1   2.4e-46   4.5e-44  147.6   7.3     2   236     2   245     1   245 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /scratch/srb67793/Pelargonium/scripts/busco_downloads/lineages/eudicots_odb10/hmms/114314at71240.hmm
+# Target file:     /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum_hap2-scaffolds-busco/run_eudicots_odb10/metaeuk_output/rerun_results/P_citronellum-hap2_scaffolds_final.fa.modified.fas
+# Option settings: hmmsearch --domtblout /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum_hap2-scaffolds-busco/run_eudicots_odb10/hmmer_output/rerun_results/114314at71240.out --cpu 1 /scratch/srb67793/Pelargonium/scripts/busco_downloads/lineages/eudicots_odb10/hmms/114314at71240.hmm /scratch/srb67793/Pelargonium/scripts/scratch/srb67793/Pelargonium/Results2/HiFiASM_OmniC/P_citronellum_hap2-scaffolds-busco/run_eudicots_odb10/metaeuk_output/rerun_results/P_citronellum-hap2_scaffolds_final.fa.modified.fas 
+# Current dir:     /scratch/srb67793/Pelargonium/scripts
+# Date:            Fri Jul 19 11:19:33 2024
+# [ok]

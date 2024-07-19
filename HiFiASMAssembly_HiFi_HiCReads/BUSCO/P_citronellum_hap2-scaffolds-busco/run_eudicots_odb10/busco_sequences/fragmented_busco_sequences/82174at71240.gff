@@ -1,0 +1,14 @@
+scaffold_3	MetaEuk	gene	36381529	36381795	36	+	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_3|+|36381528
+scaffold_3	MetaEuk	mRNA	36381529	36381795	36	+	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_3|+|36381528_mRNA;Parent=82174at71240|scaffold_3|+|36381528
+scaffold_3	MetaEuk	exon	36381529	36381795	36	+	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_3|+|36381528_exon_0;Parent=82174at71240|scaffold_3|+|36381528_mRNA
+scaffold_3	MetaEuk	CDS	36381529	36381795	36	+	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_3|+|36381528_CDS_0;Parent=82174at71240|scaffold_3|+|36381528_exon_0
+scaffold_6	MetaEuk	gene	19845014	19846425	236	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013
+scaffold_6	MetaEuk	mRNA	19845014	19846425	236	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_mRNA;Parent=82174at71240|scaffold_6|-|19845013
+scaffold_6	MetaEuk	exon	19846321	19846425	48	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_exon_0;Parent=82174at71240|scaffold_6|-|19845013_mRNA
+scaffold_6	MetaEuk	CDS	19846321	19846425	48	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_CDS_0;Parent=82174at71240|scaffold_6|-|19845013_exon_0
+scaffold_6	MetaEuk	exon	19845697	19845792	55	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_exon_1;Parent=82174at71240|scaffold_6|-|19845013_mRNA
+scaffold_6	MetaEuk	CDS	19845697	19845789	55	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_CDS_1;Parent=82174at71240|scaffold_6|-|19845013_exon_1
+scaffold_6	MetaEuk	exon	19845183	19845320	87	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_exon_2;Parent=82174at71240|scaffold_6|-|19845013_mRNA
+scaffold_6	MetaEuk	CDS	19845183	19845311	87	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_CDS_2;Parent=82174at71240|scaffold_6|-|19845013_exon_2
+scaffold_6	MetaEuk	exon	19845014	19845085	48	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_exon_3;Parent=82174at71240|scaffold_6|-|19845013_mRNA
+scaffold_6	MetaEuk	CDS	19845014	19845079	48	-	.	Target_ID=82174at71240;TCS_ID=82174at71240|scaffold_6|-|19845013_CDS_3;Parent=82174at71240|scaffold_6|-|19845013_exon_3
